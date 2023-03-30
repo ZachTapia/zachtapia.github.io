@@ -1,3 +1,17 @@
 .ui-header {
   background-color: #212d65 !important;
 }
+
+.five9-left-btn .ui-link .ui-btn .ui-btn-inline .ui-shadow .ui-corner-all {
+  color: "#fff" !important;
+}
+
+.ui-btn-right
+  .five9-right-btn
+  .ui-link
+  .ui-btn
+  .ui-btn-inline
+  .ui-shadow
+  .ui-corner-all {
+  color: "#fff" !important;
+}
