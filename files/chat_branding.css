@@ -3,9 +3,10 @@
 }
 
 .fa .fa-envelope-o {
-  color: "#fff" !important;
+  color: #fff !important;
 }
 
-#terminate-conversation-button {
-  color: "#fff" !important;
+#terminate-conversation-button,
+#terminate-connecting-button {
+  color: #fff !important;
 }
