@@ -11,3 +11,11 @@
 #main-menu-toggle {
   color: #fff !important;
 }
+
+.provider,
+.provider:hover,
+.provider:focus,
+.provider-text {
+  cursor: default !important;
+  display: none !important;
+}
