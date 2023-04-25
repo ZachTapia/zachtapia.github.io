@@ -19,3 +19,8 @@
   cursor: default !important;
   display: none !important;
 }
+
+.ui-icon-carat-d::after {
+  height: 14px !important;
+  width: 14px !important;
+}
